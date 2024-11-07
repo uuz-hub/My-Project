@@ -1,0 +1,4 @@
+﻿  Address Book Management System.cpp
+D:\develop\VS Store\VS Project\Address Book Management System\Address Book Management System\Address Book Management System.cpp(20,27): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\develop\VS Store\VS Project\Address Book Management System\Address Book Management System\Address Book Management System.cpp(117): warning C4715: “isExist”: 不是所有的控件路径都返回值
+  Address Book Management System.vcxproj -> D:\develop\VS Store\VS Project\Address Book Management System\x64\Debug\Address Book Management System.exe
