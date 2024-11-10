@@ -1,0 +1,21 @@
+﻿  MainManager.cpp
+D:\develop\VS Store\VS Project\Speech Competition Process Management System\Speech Competition Process Management System\MainManager.cpp(241,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Microsoft\VisualStudio\VC\Tools\MSVC\14.37.32822\include\numeric(34,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+D:\Microsoft\VisualStudio\VC\Tools\MSVC\14.37.32822\include\numeric(43,17): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+D:\develop\VS Store\VS Project\Speech Competition Process Management System\Speech Competition Process Management System\MainManager.cpp(146,16): message : 查看对正在编译的函数 模板 实例化“_Ty std::accumulate<std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>,float>(const _InIt,const _InIt,_Ty)”的引用
+          with
+          [
+              _Ty=float,
+              _InIt=std::_Deque_iterator<std::_Deque_val<std::_Deque_simple_types<double>>>
+          ]
+  Speech Competition Process Management System.vcxproj -> D:\develop\VS Store\VS Project\Speech Competition Process Management System\x64\Debug\Speech Competition Process Management System.exe
