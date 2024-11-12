@@ -1,0 +1,7 @@
+room:1 time:1 date:1 S_id:1 S_name:123 status:2
+room:1 time:1 date:1 S_id:1 S_name:123 status:-1
+room:1 time:1 date:1 S_id:1 S_name:123 status:0
+room:1 time:1 date:1 S_id:1 S_name:123 status:2
+room:1 time:1 date:1 S_id:1 S_name:123 status:-1
+room:1 time:1 date:1 S_id:1 S_name:123 status:0
+room:1 time:1 date:1 S_id:1 S_name:123 status:-1
